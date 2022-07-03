@@ -29,15 +29,15 @@ The entire look of the board has been redone, bringing more eye-catching colors,
 
 In the original project, it is only possible to play against AI, so it includes an interactive menu with one more game option, Multiplayer, you and a friend can play together and challenge each other. The player on the left uses the mouse to move the green racket and the player on the right uses the "W" (up) and "S" (down) keys to move the red racket.
 
-<p margin="50px"><img width="470px" src="GIF_Multiplayer.gif">
+<p align="center"><img width="470px" src="GIF_Multiplayer.gif">
 
 ## Inclusion of objective
 
 In the old version, the game continues without end and without maximum points, making it unattractive. In this version, the first player to score 5 points wins and the game ends with a winner or loser message.
 
-<p margin="500px"><img width="470px" src="GIF_You_Win.gif">
+<p align="center"><img width="470px" src="GIF_You_Win.gif">
 
-<p margin="500px"><img width="470px" src="GIF_You_Lose.gif">
+<p align="center"><img width="470px" src="GIF_You_Lose.gif">
 
 In this link below access to the project ending being able to interact and have fun with the game Pong Ball by Dev Zilio:
 
