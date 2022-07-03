@@ -21,23 +21,26 @@ function MultiPlayerGame() {
     score();
     getscore();
     winningMultiplayer();
-    youLose();
-    youWin();
+    youLoseM();
+    youWinM();
 }
 
-function youWin() {
+function youWinM() {
     if (myscore == 5) {
-        textSize(60)
-        text("You    Win", 308, 198);
+        textSize(50)
+        text("Palyer 1", 170, 198);
+        text("Win", 430, 198);
     }
 }
 
-function youLose() {
+function youLoseM() {
     if (oppscore == 5) {
-        textSize(60)
-        text("You    Lose", 308, 198);
+        textSize(50)
+        text("Palyer 2", 170, 198);
+        text("Win", 430, 198);
     }
 }
+
 
 function winningMultiplayer() {
     if (myscore == 5) {
