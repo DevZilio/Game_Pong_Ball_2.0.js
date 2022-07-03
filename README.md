@@ -1,4 +1,4 @@
-<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=FINISHED&color=GREEN&style=for-the-badge"/>
 
 
 # Game Pong Ball 2.0.js
@@ -18,26 +18,26 @@ The entire look of the board has been redone, bringing more eye-catching colors,
 
 <h1><p align="center"> Before
 
-<p align="center"><img width="470px" src="Old_board.png">
+<p align="center"><img width="470px" src="Old_board.png"></p>
 
 
-<h1><p align="center"> After
+<h1><p align="center"> After</p>
 
-<p align="center"><img align="center" width="470px" src="New_board.png">
+<p align="center"><img align="center" width="470px" src="New_board.png"></p>
 
 ## New mode game
 
 In the original project, it is only possible to play against AI, so it includes an interactive menu with one more game option, Multiplayer, you and a friend can play together and challenge each other. The player on the left uses the mouse to move the green racket and the player on the right uses the "W" (up) and "S" (down) keys to move the red racket.
 
-<p align="center"><img width="470px" src="GIF_Multiplayer.gif">
+<p align="center"><img width="470px" src="GIF_Multiplayer.gif"></p>
 
 ## Inclusion of objective
 
 In the old version, the game continues without end and without maximum points, making it unattractive. In this version, the first player to score 5 points wins and the game ends with a winner or loser message.
 
-<p align="center"><img width="470px" src="GIF_You_Win.gif">
+<p align="center"><img width="470px" src="GIF_You_Win.gif"></p>
 
-<p align="center"><img width="470px" src="GIF_You_Lose.gif">
+<p align="center"><img width="470px" src="GIF_You_Lose.gif"></p>
 
 In this link below access to the project ending being able to interact and have fun with the game Pong Ball by Dev Zilio:
 
